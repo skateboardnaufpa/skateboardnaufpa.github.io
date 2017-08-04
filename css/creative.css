@@ -160,10 +160,11 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/bgHeader.png');
+  background-image: url('../img/circuito.jpg');
   text-align: center;
 }
 header .header-content {
+  display: none;
   position: relative;
   text-align: center;
   padding: 100px 15px 100px;
